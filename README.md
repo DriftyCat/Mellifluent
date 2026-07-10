@@ -20,16 +20,19 @@ Installation
 
 Usage
 -----
-You should now have the following screen
+You should now be able to open it, which should open to this window.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/1edb3174-98af-4357-bc06-e1bf800d9d87" />
+
+Don't worry about performance, it is hilariously lightweight.
+<img width="805" height="52" alt="image" src="https://github.com/user-attachments/assets/d760525f-ca54-4cc8-aed1-2ff1c3d5b5db" />
+
 
 I recommend investigating the settings menu to change the theme to whatever your favorite is, or click the **+** besides **Folder** to add a new folder of music.
 _The easiest way to do this is to have one core music file, as it will recursively search and update based on the contents_
 
-<img width="787" height="162" alt="image" src="https://github.com/user-attachments/assets/91a93718-6e3a-483f-8361-826c60639ff2" />
 <img width="598" height="823" alt="image" src="https://github.com/user-attachments/assets/9151dc23-9a9b-46a2-befc-a25bb9cb73be" />
 
-The Theme Editor also allows you to make custom themes in all sorts of different ways<img width="576" height="745" alt="image" src="https://github.com/user-attachments/assets/b58e37ec-7143-42b1-92c7-b25342189e0e" />
+The Theme Editor also allows you to make custom themes in all sorts of different ways  <img width="576" height="745" alt="image" src="https://github.com/user-attachments/assets/b58e37ec-7143-42b1-92c7-b25342189e0e" />
 
 The Audio tab is for if you prefer music a certain way, if the presets aren't extreme enough they can always be modified further.  <img width="562" height="456" alt="image" src="https://github.com/user-attachments/assets/1abe510c-4b86-44a8-8b62-c9c8b3a869eb" />
 
