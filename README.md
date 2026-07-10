@@ -31,7 +31,7 @@ _The easiest way to do this is to have one core music file, as it will recursive
 
 The Theme Editor also allows you to make custom themes in all sorts of different ways<img width="576" height="745" alt="image" src="https://github.com/user-attachments/assets/b58e37ec-7143-42b1-92c7-b25342189e0e" />
 
-The Audio tab is for if you prefer music a certain way, if the presets aren't extreme enough they can always be modified further.<img width="562" height="456" alt="image" src="https://github.com/user-attachments/assets/1abe510c-4b86-44a8-8b62-c9c8b3a869eb" />
+The Audio tab is for if you prefer music a certain way, if the presets aren't extreme enough they can always be modified further.  <img width="562" height="456" alt="image" src="https://github.com/user-attachments/assets/1abe510c-4b86-44a8-8b62-c9c8b3a869eb" />
 
 And finally Keybindings: The Global checkbox determines if the keybinds apply when the window is unfocused, and the Media Keys is for preference mostly, I would say it's best usage is if you want separate keybinds for say Youtube and Mellifluent. This does support multi-key keybinds, and I would NOT use space and the other defaults globally.
 
