@@ -1,6 +1,7 @@
 The goal is simple: Make a downloaded music player that is better, functionally and aesthetically, than the existing options.
 
-Presenting the solution: **Mellifluent** _(sweetly or smoothly flowing; sweet-sounding)_
+Presenting the solution: **Mellifluent** _(sweetly or smoothly flowing; sweet-sounding)_  
+Mellifluent is a music player build to fill the gap of a modern, accessible, powerful but lightweight music player that alternatives like HiByMusic and MusicBee fail at (not that I dislike these programs, I have used both extensively, but both feel lacking).
 
 _Note: Mellifluent will never eat your files nor rummage through them for cat pictures, since as much as I may want your cat pictures, that goes against what is right, and similarly will never collect/send telemetry (it doesn't even get internet access)._
 
@@ -8,7 +9,7 @@ Installation
 ------------
 
 1. Go to the releases tab and download the latest release for your OS, don't just hit the big green code button, the license and readme are all you will get.
-https://github.com/DriftyCat/Mellifluent/releases/
+[Releases](https://github.com/DriftyCat/Mellifluent/releases/)
 
 3. Run the suspiciously small .exe file you just downloaded (it's almost like it has no bloat it is so small)
 
@@ -32,7 +33,22 @@ The Theme Editor also allows you to make custom themes in all sorts of different
 
 The Audio tab is for if you prefer music a certain way, if the presets aren't extreme enough they can always be modified further.<img width="562" height="456" alt="image" src="https://github.com/user-attachments/assets/1abe510c-4b86-44a8-8b62-c9c8b3a869eb" />
 
-And finally Keybindings is useful, the Global checkbox determines if the keybinds apply when the window is unfocused, and the Media Keys is for preference mostly, I would say it's best usage is if you want separate keybinds for say Youtube and Mellifluent, this does support multi-key keybinds, and I would NOT use space and the others globally.
+And finally Keybindings: The Global checkbox determines if the keybinds apply when the window is unfocused, and the Media Keys is for preference mostly, I would say it's best usage is if you want separate keybinds for say Youtube and Mellifluent. This does support multi-key keybinds, and I would NOT use space and the other defaults globally.
 
   <img width="562" height="777" alt="image" src="https://github.com/user-attachments/assets/1e0b7b4e-c5cf-438c-b530-3e49c17614bc" />
+
+
+Example Themes
+--------------
+**Some Preset Themes:**
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5bd00afd-65c2-4fd3-a4c9-732daae4a25b" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8f3516ce-6732-4128-abf2-b5ffeefa5ceb" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/16e2a885-5b5d-4e8e-91a2-3efbc8d8c286" />
+
+**Some Custom Themes:**
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/e3e80c12-00c5-46f9-935a-d26e7a2b4f56" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c7f08e27-deb3-41cc-84c4-2298ab253d8a" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c949f546-cca7-4f4d-b940-523e46a7de42" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0377ffa8-e1f7-4605-ab1d-6f59225fcff8" />
+
 
